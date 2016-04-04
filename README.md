@@ -1,3 +1,3 @@
-## ES6 Tutorial
+## ES6 Exercise
 
-Start the tutorial [here](http://ccoenraets.github.io/es6-tutorial).
+First try
