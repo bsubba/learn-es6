@@ -1,4 +1,4 @@
-import Mortgage from './mortgage';
+import Mortgage from './mortgage'; 
 
 document.getElementById('calcBtn').addEventListener('click', () => {
     let principal = document.getElementById("principal").value;
